@@ -1,3 +1,5 @@
+package baisc;
+
 public class Cricket {
 
     private String playerName;

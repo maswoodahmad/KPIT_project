@@ -1,3 +1,5 @@
+package baisc;
+
 public class SavingAccountTest {
     public static void main(String[] args) {
         System.out.println("Hello STS!");

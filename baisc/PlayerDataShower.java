@@ -1,3 +1,5 @@
+package baisc;
+
 public class PlayerDataShower {
 
     public static void main(String[] args) {
